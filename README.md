@@ -1,0 +1,1 @@
+# go-hermetic-example
