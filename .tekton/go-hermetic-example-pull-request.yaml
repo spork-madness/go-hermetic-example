@@ -18,6 +18,8 @@ metadata:
   namespace: arewm-tenant
 spec:
   params:
+  - name: hermetic
+    value: "true"
   - name: dockerfile
     value: docker/Dockerfile
   - name: git-url
